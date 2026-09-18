@@ -4,3 +4,8 @@ __pycache__/
 .vscode/
 .DS_Store
 Thumbs.db
+*.csv
+!hw02-1/data/prices.csv
+*.zip
+_build_nb.py
+process_csmar.py
